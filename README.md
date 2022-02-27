@@ -1,4 +1,4 @@
 # result-portal
-faculty login credentials:
-ID: admin
+faculty login credentials\n
+ID: admin\n
 Password: test
